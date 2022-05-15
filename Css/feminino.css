@@ -1,0 +1,90 @@
+/*Cabeçalho*/
+body{
+    font-family: Arial;
+    background-color:rgb(255,255,255);
+}
+
+nav#Menu1 ul{
+   list-style-type:none;
+   font-size:20px;         
+   position: absolute;
+   left:120px;
+   height:100px;
+   top: 1px;
+}
+header{
+    background-color:rgb(0,127,255);
+}
+nav#Menu2 ul{
+   color:rgb(255,165,0);
+   list-style-type:none;
+   font-size:30px;         
+   position: absolute;
+   left:120px;
+   height:-990px;
+   top: 30px;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+/*Linha*/
+nav#linha{
+    border-bottom: 1px solid rgb(255,165,0);
+}
+/*Fim Menu*/
+/*Inteface*/
+nav#inteface{
+    text-align: center;
+    margin-left:100px
+}
+/*Banner*/
+figcaption#banner{
+    text-align: center;
+}
+nav#ImagemLina{
+    text-align: center;
+}
+nav#Interface{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+nav#promacao{
+    border-style:double;
+    border-color: rgb(255,165,0);
+    text-align: center;
+    text-transform:uppercase; 
+    border-width: 1px 0px 1px 0px;
+}
+figcaption#Linha1{
+    text-align: center
+}
+h1{
+    text-align: center;
+    color:rgb(255,165,0);
+    border-bottom: solid 1px rgb(255,165,0);    
+}
+nav#tudo{
+    text-align: center;
+} 
+/*Roda Pé*/
+footer#rodape{
+    border: 1px solid rgb(0,0,0);
+    text-transform: uppercase;
+    background-color: rgb(0,127,255);
+}
+
+nav#espaco1{
+    position:absolute;
+    right:12px;
+    top:1985px
+}
+
+nav#traco{
+   border-bottom: solid 1px rgb(0,0,0);
+}
+
+img#comp{
+    position:absolute;
+    right: 12px;
+}
